@@ -10,3 +10,7 @@ Use pythorch to implement a [hourglass model](https://arxiv.org/pdf/1603.06937.p
 * 1. https://github.com/bearpaw/pytorch-pose
 * 2. [MULTI-SCALE SUPERVISED NETWORK FOR HUMAN POSE ESTIMATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451114)
 * 3. [Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+## Result Example Pictures
+![](https://github.com/GuoyaoShen/HourGlass_torch/blob/master/result_pics/merge_1.jpg "eg1")
+![](https://github.com/GuoyaoShen/HourGlass_torch/blob/master/result_pics/merge_2.jpg "eg2")
